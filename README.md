@@ -53,6 +53,6 @@ Likely employs a styling framework like Tailwind CSS or other CSS methodologies 
 # Conclusion:
 The Shopping Cart app in React is designed to provide a seamless and intuitive shopping experience. It allows users to browse products, add them to a cart, manage the cart contents, and potentially proceed through a checkout process. The application emphasizes efficient state management, clean user interface, and navigation for a user-friendly shopping experience.
 
-# React + Vite
-[vite-guidelines]:(https://vitejs.dev/guide/)
+# React + Vite :(https://vitejs.dev/guide/)
+
 
