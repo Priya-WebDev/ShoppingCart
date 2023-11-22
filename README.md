@@ -1,4 +1,4 @@
-# Shopping Cart App 
+# Shopping Cart App [visit my site](https://priyaganga-shopease.netlify.app/)
 The Shopping Cart app is a web application designed to facilitate online shopping by allowing users to browse items, add them to a cart, and proceed to checkout. Here’s a comprehensive description of its functionalities:
 
 # Features:
@@ -51,14 +51,8 @@ Uses React Router (react-router-dom) for navigating between different sections o
 Likely employs a styling framework like Tailwind CSS or other CSS methodologies for responsive design and UI/UX enhancements.
 
 # Conclusion:
-The Shopping Cart app in React is designed to provide a seamless and intuitive shopping experience. It allows users to browse products, add them to a cart, manage the cart contents, and potentially proceed through a checkout process. The application emphasizes efficient state management, clean user interface, and navigation for a user-friendly shopping experience. 
-
+The Shopping Cart app in React is designed to provide a seamless and intuitive shopping experience. It allows users to browse products, add them to a cart, manage the cart contents, and potentially proceed through a checkout process. The application emphasizes efficient state management, clean user interface, and navigation for a user-friendly shopping experience.
 
 # React + Vite
+[vite-guidelines]:(https://vitejs.dev/guide/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
